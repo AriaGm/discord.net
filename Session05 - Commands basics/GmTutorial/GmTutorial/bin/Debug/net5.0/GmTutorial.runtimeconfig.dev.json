@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Moka\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Moka\\.nuget\\packages"
+    ]
+  }
+}
